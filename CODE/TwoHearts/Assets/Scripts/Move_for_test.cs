@@ -12,6 +12,12 @@ public class Move_for_test : MonoBehaviour
     private Rigidbody2D player;
     //находится ли персонаж на земле или в прыжке?
     private bool isGrounded = false;
+    private int score = 4;
+    private string GUIBOX = "";
+    private bool PickedSocks = false;
+    private bool PickedPants = false;
+    private bool PickedShirts = false;
+    private bool PickedRose = false;
     //ссылка на компонент Transform объекта
     //для определения соприкосновения с землей
     public Transform groundCheck;
@@ -74,6 +80,17 @@ public class Move_for_test : MonoBehaviour
 
     private void Update()
     {
+
+
+        if (score != 0)
+        {
+            GUIBOX = "Нужно собрать еще " + score + " вещей";
+        }
+        else
+        {
+            GUIBOX = "Теперь можно идти";
+        }
+        
         float move = Input.GetAxisRaw("Horizontal");
         player.velocity = new Vector2(move * maxSpeed, player.velocity.y);
         if (move > 0 && !isFacingRight)
@@ -113,7 +130,7 @@ public class Move_for_test : MonoBehaviour
         }
         if (col.gameObject.tag == "jump")
         {
-            player.velocity = new Vector2(player.velocity.x, 20f);
+            player.velocity = new Vector2(player.velocity.x, 5f);
         }
 
 
@@ -122,16 +139,52 @@ public class Move_for_test : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.tag == "stair" && Input.GetKeyDown(KeyCode.Space))
-        {
-            player.velocity = new Vector2(player.velocity.x, 20f);
-        }
 
-        if (col.gameObject.tag == "Star")
+        if (col.gameObject.tag == "clothes")
         {
 
-            Destroy(col.gameObject);
+            if (col.gameObject.name == "pants")
+            {
+
+                PickedPants = true;
+                Destroy(col.gameObject);
+                score--;
+            
+            }
+            if (col.gameObject.name == "rose")
+            {
+                PickedRose = true;
+                Destroy(col.gameObject);
+                score--;
+            }
+            if (col.gameObject.name == "shirt")
+            {
+                PickedShirts = true;
+                Destroy(col.gameObject);
+                score--;
+            }
+            if (col.gameObject.name == "socks")
+            {
+                PickedSocks = true;
+                Destroy(col.gameObject);
+                score--;
+            }
         }
 
+        if (col.gameObject.name == "End_level_room_1" && PickedPants && PickedRose && PickedShirts & PickedSocks)
+        {
+            Application.LoadLevel("Room_2");
+        }
+
+        if (col.gameObject.name == "End_level_room_2")
+        {
+            Application.LoadLevel("ToBeContinue");
+        }
+
+    }
+
+    void OnGUI()
+    {
+        GUI.Box(new Rect(0, 0, 200, 50), GUIBOX );
     }
 }
