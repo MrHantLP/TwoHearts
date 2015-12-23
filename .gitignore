@@ -1,3 +1,19 @@
+Skip to content
+This repository  
+Search
+Pull requests
+Issues
+Gist
+ @BooNoo
+ Unwatch 5
+  Star 0
+  Fork 0 MrHantLP/TwoHearts
+ Code  Issues 1  Pull requests 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathTwoHearts/.gitignore
+94233f4  7 days ago
+@MrHantLP MrHantLP Gitignore Unity
+1 contributor
+RawBlameHistory     57 lines (44 sloc)  898 Bytes
 # Built application files
 *.apk
 *.ap_
@@ -55,3 +71,8 @@ CODE/TwoHearts/*.svd
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+Status API Training Shop Blog About Pricing
+© 2015 GitHub, Inc. Terms Privacy Security Contact Help
+CODE/TwoHearts/ProjectSettings/ProjectSettings.asset
+*.txt
+CODE/TwoHearts/ProjectSettings/ProjectVersion.txt
