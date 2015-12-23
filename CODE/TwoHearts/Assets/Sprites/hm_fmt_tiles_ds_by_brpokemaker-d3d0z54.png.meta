@@ -1,0 +1,2289 @@
+fileFormatVersion: 2
+guid: 55c186def682dc94e802b2db84c66116
+timeCreated: 1450887337
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_0
+    21300002: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_1
+    21300004: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_2
+    21300006: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_3
+    21300008: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_4
+    21300010: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_5
+    21300012: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_6
+    21300014: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_7
+    21300016: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_8
+    21300018: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_9
+    21300020: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_10
+    21300022: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_11
+    21300024: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_12
+    21300026: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_13
+    21300028: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_14
+    21300030: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_15
+    21300032: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_16
+    21300034: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_17
+    21300036: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_18
+    21300038: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_19
+    21300040: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_20
+    21300042: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_21
+    21300044: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_22
+    21300046: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_23
+    21300048: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_24
+    21300050: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_25
+    21300052: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_26
+    21300054: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_27
+    21300056: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_28
+    21300058: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_29
+    21300060: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_30
+    21300062: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_31
+    21300064: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_32
+    21300066: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_33
+    21300068: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_34
+    21300070: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_35
+    21300072: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_36
+    21300074: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_37
+    21300076: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_38
+    21300078: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_39
+    21300080: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_40
+    21300082: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_41
+    21300084: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_42
+    21300086: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_43
+    21300088: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_44
+    21300090: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_45
+    21300092: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_46
+    21300094: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_47
+    21300096: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_48
+    21300098: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_49
+    21300100: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_50
+    21300102: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_51
+    21300104: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_52
+    21300106: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_53
+    21300108: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_54
+    21300110: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_55
+    21300112: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_56
+    21300114: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_57
+    21300116: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_58
+    21300118: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_59
+    21300120: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_60
+    21300122: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_61
+    21300124: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_62
+    21300126: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_63
+    21300128: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_64
+    21300130: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_65
+    21300132: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_66
+    21300134: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_67
+    21300136: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_68
+    21300138: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_69
+    21300140: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_70
+    21300142: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_71
+    21300144: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_72
+    21300146: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_73
+    21300148: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_74
+    21300150: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_75
+    21300152: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_76
+    21300154: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_77
+    21300156: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_78
+    21300158: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_79
+    21300160: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_80
+    21300162: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_81
+    21300164: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_82
+    21300166: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_83
+    21300168: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_84
+    21300170: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_85
+    21300172: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_86
+    21300174: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_87
+    21300176: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_88
+    21300178: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_89
+    21300180: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_90
+    21300182: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_91
+    21300184: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_92
+    21300186: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_93
+    21300188: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_94
+    21300190: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_95
+    21300192: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_96
+    21300194: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_97
+    21300196: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_98
+    21300198: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_99
+    21300200: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_100
+    21300202: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_101
+    21300204: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_102
+    21300206: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_103
+    21300208: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_104
+    21300210: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_105
+    21300212: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_106
+    21300214: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_107
+    21300216: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_108
+    21300218: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_109
+    21300220: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_110
+    21300222: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_111
+    21300224: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_112
+    21300226: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_113
+    21300228: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_114
+    21300230: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_115
+    21300232: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_116
+    21300234: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_117
+    21300236: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_118
+    21300238: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_119
+    21300240: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_120
+    21300242: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_121
+    21300244: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_122
+    21300246: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_123
+    21300248: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_124
+    21300250: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_125
+    21300252: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_126
+    21300254: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_127
+    21300256: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_128
+    21300258: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_129
+    21300260: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_130
+    21300262: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_131
+    21300264: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_132
+    21300266: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_133
+    21300268: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_134
+    21300270: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_135
+    21300272: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_136
+    21300274: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_137
+    21300276: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_138
+    21300278: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_139
+    21300280: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_140
+    21300282: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_141
+    21300284: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_142
+    21300286: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_143
+    21300288: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_144
+    21300290: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_145
+    21300292: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_146
+    21300294: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_147
+    21300296: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_148
+    21300298: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_149
+    21300300: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_150
+    21300302: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_151
+    21300304: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_152
+    21300306: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_153
+    21300308: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_154
+    21300310: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_155
+    21300312: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_156
+    21300314: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_157
+    21300316: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_158
+    21300318: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_159
+    21300320: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_160
+    21300322: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_161
+    21300324: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_162
+    21300326: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_163
+    21300328: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_164
+    21300330: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_165
+    21300332: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_166
+    21300334: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_167
+    21300336: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_168
+    21300338: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_169
+    21300340: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_170
+    21300342: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_171
+    21300344: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_172
+    21300346: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_173
+    21300348: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_174
+    21300350: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_175
+    21300352: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_176
+    21300354: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_177
+    21300356: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_178
+    21300358: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_179
+    21300360: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_180
+    21300362: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_181
+    21300364: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_182
+    21300366: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_183
+    21300368: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_184
+    21300370: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_185
+    21300372: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_186
+    21300374: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_187
+    21300376: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_188
+    21300378: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_189
+    21300380: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_190
+    21300382: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_191
+    21300384: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_192
+    21300386: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_193
+    21300388: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_194
+    21300390: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_195
+    21300392: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_196
+    21300394: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_197
+    21300396: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_198
+    21300398: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_199
+    21300400: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_200
+    21300402: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_201
+    21300404: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_202
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1096
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1093
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1107
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1103
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1083
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1108
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1081
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1081
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1086
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1067
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1079
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1060
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1052
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1040
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1037
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1076
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1043
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1043
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1028
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1033
+        width: 208
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 977
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 965
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 968
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 942
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 959
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 939
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 921
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 906
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 922
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 909
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 917
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 955
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 954
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 955
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_35
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 953
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 889
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 931
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 944
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_41
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 944
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 945
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 879
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 912
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 883
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 917
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 895
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 869
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 868
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 823
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 821
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_52
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 815
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 819
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 800
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 823
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 821
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 830
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 822
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 789
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 791
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_61
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 750
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 804
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 807
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_65
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 806
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 780
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 789
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_68
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 782
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 762
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_70
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 770
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_71
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 759
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_72
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 784
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 703
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 705
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 727
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 755
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_77
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 729
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_78
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 751
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 737
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 716
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 725
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 731
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 714
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_84
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 716
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 723
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_87
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 665
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 634
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 635
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_92
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 631
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_94
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_96
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_97
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 650
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_98
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 650
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 629
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_100
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 613
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 631
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 589
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_103
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 603
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_104
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 603
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_105
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 602
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_106
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 602
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_107
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 616
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_108
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 592
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_109
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 592
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_110
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 549
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_111
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 543
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_112
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 567
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 573
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 563
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_115
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 561
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_116
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 572
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_117
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 577
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_118
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 564
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_119
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 565
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_120
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 563
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_121
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 562
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_122
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 573
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_123
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 565
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 510
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_125
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 510
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_126
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 519
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_127
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 524
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_128
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 492
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_129
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 486
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_131
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 392
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 430
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_133
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 405
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_134
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 406
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_135
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 449
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_136
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 437
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_137
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 436
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_138
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 415
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_139
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 449
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_140
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 429
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_141
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 430
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_142
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 411
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_143
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 408
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_144
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 433
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_145
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 390
+        width: 13
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 399
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_147
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 407
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_148
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 388
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_149
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 419
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_150
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 375
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_151
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_152
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 346
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_153
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 341
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_154
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 380
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_155
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 353
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_156
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 312
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 316
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_158
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 310
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_159
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 306
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_160
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_161
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 344
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_162
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 341
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_164
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 266
+        width: 112
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_165
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 274
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_166
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 284
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_167
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 244
+        width: 20
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_168
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 284
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_169
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 315
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 309
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_171
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 239
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_172
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_174
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 293
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_175
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 305
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_176
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_177
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 258
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_178
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 250
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_179
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 286
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_180
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 293
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_181
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 291
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_182
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 293
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_183
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 253
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_184
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 277
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 281
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_186
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_187
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 220
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_188
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 210
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_189
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 224
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_190
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 242
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_191
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 255
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_192
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 190
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_193
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 77
+        width: 126
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_194
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 77
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_195
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 77
+        width: 115
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_196
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 77
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_197
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 77
+        width: 115
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_198
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 77
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_199
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 77
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_200
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 77
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 26
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hm_fmt_tiles_ds_by_brpokemaker-d3d0z54_202
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 26
+        width: 198
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
