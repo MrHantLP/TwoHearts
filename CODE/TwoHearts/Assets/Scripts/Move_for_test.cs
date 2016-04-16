@@ -22,7 +22,7 @@ public class Move_for_test : MonoBehaviour
     //для определения соприкосновения с землей
     public Transform groundCheck;
     //радиус определения соприкосновения с землей
-    private float groundRadius = 0.5f;
+    private float groundRadius = 0.2f;
     //ссылка на слой, представляющий землю
     public LayerMask whatIsGround;
     /// <summary>
