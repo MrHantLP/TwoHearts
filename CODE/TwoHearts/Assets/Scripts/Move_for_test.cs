@@ -12,12 +12,13 @@ public class Move_for_test : MonoBehaviour
     private Rigidbody2D player;
     //находится ли персонаж на земле или в прыжке?
     private bool isGrounded = false;
-    private int score = 4;
+    private int score;
     private string GUIBOX = "";
     private bool PickedSocks = false;
     private bool PickedPants = false;
     private bool PickedShirts = false;
     private bool PickedRose = false;
+    private bool PickedKey = false;
     //ссылка на компонент Transform объекта
     //для определения соприкосновения с землей
     public Transform groundCheck;
@@ -81,16 +82,34 @@ public class Move_for_test : MonoBehaviour
     private void Update()
     {
 
+        if (Application.loadedLevelName == "Room_1"){
+            score = 4;
+            if (score != 0)
+            {
+                GUIBOX = "Нужно собрать еще " + score + " вещей";
+            }
+            else
+            {
+                GUIBOX = "Теперь можно идти";
+            }
+        }
+        if (Application.loadedLevelName == "Room_3-4")
+        {
+            score = 1;
+            if (score != 0)
+            {
+                GUIBOX = "Нужно найти ключ";
+            }
+            else
+            {
+                GUIBOX = "Теперь можно идти";
+            }
+        }
+        if (Application.loadedLevelName == "Room_4")
+        {
+            GUIBOX = "Дойдите до лаборатории";
+        }
 
-        if (score != 0)
-        {
-            GUIBOX = "Нужно собрать еще " + score + " вещей";
-        }
-        else
-        {
-            GUIBOX = "Теперь можно идти";
-        }
-        
         float move = Input.GetAxisRaw("Horizontal");
         player.velocity = new Vector2(move * maxSpeed, player.velocity.y);
         if (move > 0 && !isFacingRight)
@@ -139,8 +158,11 @@ public class Move_for_test : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-
-        if (col.gameObject.tag == "clothes")
+        if (col.gameObject.tag == "die")
+        {
+            Application.LoadLevel(Application.loadedLevel);
+        }
+            if (col.gameObject.tag == "clothes")
         {
 
             if (col.gameObject.name == "pants")
@@ -169,6 +191,12 @@ public class Move_for_test : MonoBehaviour
                 Destroy(col.gameObject);
                 score--;
             }
+            if (col.gameObject.name == "key")
+            {
+                PickedKey = true;
+                Destroy(col.gameObject);
+                score--;
+            }
         }
 
         if (col.gameObject.name == "End_level_room_1" && PickedPants && PickedRose && PickedShirts & PickedSocks)
@@ -178,8 +206,21 @@ public class Move_for_test : MonoBehaviour
 
         if (col.gameObject.name == "End_level_room_2")
         {
+            Application.LoadLevel("Room_3");
+        }
+        if (col.gameObject.name == "End_level_room_3")
+        {
+            Application.LoadLevel("Room_3-4");
+        }
+        if (col.gameObject.name == "End_level_room_3-4" && PickedKey)
+        {
+            Application.LoadLevel("Room_4");
+        }
+        if (col.gameObject.name == "End_level_room_4")
+        {
             Application.LoadLevel("ToBeContinue");
         }
+
 
     }
 
