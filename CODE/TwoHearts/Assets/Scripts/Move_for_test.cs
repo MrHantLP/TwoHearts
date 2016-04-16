@@ -5,6 +5,7 @@ public class Move_for_test : MonoBehaviour
 {
     //переменная для установки макс. скорости персонажа
     public float maxSpeed = 10f;
+	private int jumpStrength =300;
     //переменная для определения направления персонажа вправо/влево
     private bool isFacingRight = true;
     //ссылка на компонент анимаций
@@ -25,6 +26,7 @@ public class Move_for_test : MonoBehaviour
     private float groundRadius = 0.5f;
     //ссылка на слой, представляющий землю
     public LayerMask whatIsGround;
+	public GameObject skelet;
     /// <summary>
     /// Начальная инициализация
     /// </summary>
@@ -80,17 +82,14 @@ public class Move_for_test : MonoBehaviour
 
     private void Update()
     {
+		if (Application.loadedLevelName == "Room_1") {
+			if (score != 0) {
+				GUIBOX = "Нужно собрать еще " + score + " вещей";
+			} else {
+				GUIBOX = "Теперь можно идти";
+			}
+		}
 
-
-        if (score != 0)
-        {
-            GUIBOX = "Нужно собрать еще " + score + " вещей";
-        }
-        else
-        {
-            GUIBOX = "Теперь можно идти";
-        }
-        
         float move = Input.GetAxisRaw("Horizontal");
         player.velocity = new Vector2(move * maxSpeed, player.velocity.y);
         if (move > 0 && !isFacingRight)
@@ -105,7 +104,7 @@ public class Move_for_test : MonoBehaviour
             //устанавливаем в аниматоре переменную в false
             anim.SetBool("Ground", false);
             //прикладываем силу вверх, чтобы персонаж подпрыгнул
-            player.AddForce(new Vector2(0, 300));
+            player.AddForce(new Vector2(0, jumpStrength));
         }
     }
 
@@ -171,6 +170,43 @@ public class Move_for_test : MonoBehaviour
             }
         }
 
+		if (col.gameObject.tag == "potions")
+		{
+			
+
+			if (col.gameObject.name == "poison")
+			{
+				
+				Vector2 coordinats = new Vector2 (-2.29f, -2.59f);
+				player.MovePosition(coordinats);
+				Destroy(col.gameObject);
+
+			}
+			if (col.gameObject.name == "picture_poison")
+			{
+				GUIBOX = "hello";
+
+				Destroy(col.gameObject);
+				Destroy (skelet);
+			}
+			if (col.gameObject.name == "potion_teleport")
+			{
+				GUIBOX = "hello";
+				Vector2 coordinats = new Vector2 (-1.11f, 3.21f);
+				player.MovePosition(coordinats);
+				Destroy(col.gameObject);
+
+			}
+			if (col.gameObject.name == "potion_jump")
+			{
+				jumpStrength = 450;
+				Destroy(col.gameObject);
+
+			}
+		}
+
+
+
         if (col.gameObject.name == "End_level_room_1" && PickedPants && PickedRose && PickedShirts & PickedSocks)
         {
             Application.LoadLevel("Room_2");
@@ -178,8 +214,13 @@ public class Move_for_test : MonoBehaviour
 
         if (col.gameObject.name == "End_level_room_2")
         {
-            Application.LoadLevel("ToBeContinue");
+            Application.LoadLevel("Lab");
         }
+
+		if (col.gameObject.name == "End_level_lab")
+		{
+			Application.LoadLevel("ToBeContinue");
+		}
 
     }
 

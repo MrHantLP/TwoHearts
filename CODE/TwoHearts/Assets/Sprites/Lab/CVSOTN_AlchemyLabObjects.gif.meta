@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: 60fbb3632a04d11449859b3c99eeb921
+timeCreated: 1460793095
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CVSOTN_AlchemyLabObjects_0
+    21300002: CVSOTN_AlchemyLabObjects_1
+    21300004: CVSOTN_AlchemyLabObjects_2
+    21300006: CVSOTN_AlchemyLabObjects_3
+    21300008: CVSOTN_AlchemyLabObjects_4
+    21300010: CVSOTN_AlchemyLabObjects_5
+    21300012: CVSOTN_AlchemyLabObjects_6
+    21300014: CVSOTN_AlchemyLabObjects_7
+    21300016: CVSOTN_AlchemyLabObjects_8
+    21300018: CVSOTN_AlchemyLabObjects_9
+    21300020: CVSOTN_AlchemyLabObjects_10
+    21300022: CVSOTN_AlchemyLabObjects_11
+    21300024: CVSOTN_AlchemyLabObjects_12
+    21300026: CVSOTN_AlchemyLabObjects_13
+    21300028: CVSOTN_AlchemyLabObjects_14
+    21300030: CVSOTN_AlchemyLabObjects_15
+    21300032: CVSOTN_AlchemyLabObjects_16
+    21300034: CVSOTN_AlchemyLabObjects_17
+    21300036: CVSOTN_AlchemyLabObjects_18
+    21300038: CVSOTN_AlchemyLabObjects_19
+    21300040: CVSOTN_AlchemyLabObjects_20
+    21300042: CVSOTN_AlchemyLabObjects_21
+    21300044: CVSOTN_AlchemyLabObjects_22
+    21300046: CVSOTN_AlchemyLabObjects_23
+    21300048: CVSOTN_AlchemyLabObjects_24
+    21300050: CVSOTN_AlchemyLabObjects_25
+    21300052: CVSOTN_AlchemyLabObjects_26
+    21300054: CVSOTN_AlchemyLabObjects_27
+    21300056: CVSOTN_AlchemyLabObjects_28
+    21300058: CVSOTN_AlchemyLabObjects_29
+    21300060: CVSOTN_AlchemyLabObjects_30
+    21300062: CVSOTN_AlchemyLabObjects_31
+    21300064: CVSOTN_AlchemyLabObjects_32
+    21300066: CVSOTN_AlchemyLabObjects_33
+    21300068: CVSOTN_AlchemyLabObjects_34
+    21300070: CVSOTN_AlchemyLabObjects_35
+    21300072: CVSOTN_AlchemyLabObjects_36
+    21300074: CVSOTN_AlchemyLabObjects_37
+    21300076: CVSOTN_AlchemyLabObjects_38
+    21300078: CVSOTN_AlchemyLabObjects_39
+    21300080: CVSOTN_AlchemyLabObjects_40
+    21300082: CVSOTN_AlchemyLabObjects_41
+    21300084: CVSOTN_AlchemyLabObjects_42
+    21300086: CVSOTN_AlchemyLabObjects_43
+    21300088: CVSOTN_AlchemyLabObjects_44
+    21300090: CVSOTN_AlchemyLabObjects_45
+    21300092: CVSOTN_AlchemyLabObjects_46
+    21300094: CVSOTN_AlchemyLabObjects_47
+    21300096: CVSOTN_AlchemyLabObjects_48
+    21300098: CVSOTN_AlchemyLabObjects_49
+    21300100: CVSOTN_AlchemyLabObjects_50
+    21300102: CVSOTN_AlchemyLabObjects_51
+    21300104: CVSOTN_AlchemyLabObjects_52
+    21300106: CVSOTN_AlchemyLabObjects_53
+    21300108: CVSOTN_AlchemyLabObjects_54
+    21300110: CVSOTN_AlchemyLabObjects_55
+    21300112: CVSOTN_AlchemyLabObjects_56
+    21300114: CVSOTN_AlchemyLabObjects_57
+    21300116: CVSOTN_AlchemyLabObjects_58
+    21300118: CVSOTN_AlchemyLabObjects_59
+    21300120: CVSOTN_AlchemyLabObjects_60
+    21300122: CVSOTN_AlchemyLabObjects_61
+    21300124: CVSOTN_AlchemyLabObjects_62
+    21300126: CVSOTN_AlchemyLabObjects_63
+    21300128: CVSOTN_AlchemyLabObjects_64
+    21300130: CVSOTN_AlchemyLabObjects_65
+    21300132: CVSOTN_AlchemyLabObjects_66
+    21300134: CVSOTN_AlchemyLabObjects_67
+    21300136: CVSOTN_AlchemyLabObjects_68
+    21300138: CVSOTN_AlchemyLabObjects_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CVSOTN_AlchemyLabObjects_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 5
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 299
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 36}
+        - {x: -16, y: 31}
+        - {x: -16, y: -36}
+        - {x: 16, y: -36}
+        - {x: 16, y: 30}
+        - {x: 11, y: 36}
+      - - {x: -10, y: -10}
+        - {x: -10, y: 17}
+        - {x: 11, y: 16}
+        - {x: 7, y: -13}
+    - name: CVSOTN_AlchemyLabObjects_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 343
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 327
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 327
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 327
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 327
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 301
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 19.5}
+        - {x: -23, y: 18.5}
+        - {x: -32, y: -7.5}
+        - {x: -32, y: -19.5}
+        - {x: 32, y: -19.5}
+        - {x: 32, y: 8.5}
+        - {x: 18, y: 19.5}
+    - name: CVSOTN_AlchemyLabObjects_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 311
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 334
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 332
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: CVSOTN_AlchemyLabObjects_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 252
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 252
+        width: 123
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 252
+        width: 127
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 200
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 7}
+        - {x: -3, y: 8}
+        - {x: -4, y: 20}
+        - {x: -12, y: 23}
+        - {x: -20, y: 23}
+        - {x: -22, y: 14}
+        - {x: -22, y: -23}
+        - {x: 20, y: -23}
+        - {x: 22, y: -22}
+        - {x: 22, y: 5}
+        - {x: -1, y: 7}
+      - - {x: 17, y: 22}
+        - {x: 16, y: 19}
+        - {x: 16, y: 14}
+        - {x: 20, y: 9}
+        - {x: 22, y: 9}
+        - {x: 22, y: 23}
+        - {x: 19, y: 23}
+    - name: CVSOTN_AlchemyLabObjects_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 233
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 212
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 185
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -20.5}
+        - {x: 61, y: -20.5}
+        - {x: 61, y: -8.5}
+        - {x: -61, y: -8.5}
+      - - {x: -32, y: 20.5}
+        - {x: -61, y: 20.5}
+        - {x: -61, y: -7.5}
+        - {x: -17, y: -7.5}
+        - {x: -15, y: -5.5}
+        - {x: -16, y: -1.5}
+      - - {x: 13, y: 20.5}
+        - {x: 1, y: 20.5}
+        - {x: -2, y: 18.5}
+        - {x: -2, y: 4.5}
+        - {x: -1, y: 1.5}
+        - {x: 12, y: 1.5}
+        - {x: 15, y: 4.5}
+        - {x: 15, y: 17.5}
+      - - {x: 29, y: 20.5}
+        - {x: 19, y: 20.5}
+        - {x: 18, y: 19.5}
+        - {x: 18, y: 1.5}
+        - {x: 32, y: 1.5}
+        - {x: 35, y: 4.5}
+        - {x: 35, y: 17.5}
+      - - {x: 51, y: 20.5}
+        - {x: 38, y: 20.5}
+        - {x: 38, y: 19.5}
+        - {x: 40, y: 16.5}
+        - {x: 38, y: 4.5}
+        - {x: 41, y: 1.5}
+        - {x: 52, y: 1.5}
+        - {x: 55, y: 4.5}
+        - {x: 54, y: 7.5}
+        - {x: 54, y: 17.5}
+      - - {x: 58, y: 4.5}
+        - {x: 60, y: 2.5}
+        - {x: 61, y: 2.5}
+        - {x: 61, y: 7.5}
+        - {x: 59, y: 7.5}
+      - - {x: 58, y: 10.5}
+        - {x: 60, y: 8.5}
+        - {x: 61, y: 8.5}
+        - {x: 61, y: 15.5}
+        - {x: 58, y: 14.5}
+    - name: CVSOTN_AlchemyLabObjects_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 209
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 209
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_29
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 209
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 209
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 185
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 185
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 118
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 118
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 139
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 153
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_37
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 118
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -16, y: 14}
+        - {x: -16, y: -18}
+        - {x: 16, y: -18}
+        - {x: 16, y: 16}
+        - {x: 2, y: 18}
+    - name: CVSOTN_AlchemyLabObjects_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 118
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 98
+        width: 122
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 111
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 89
+        width: 122
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 98
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 34
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -13, y: 13}
+        - {x: -18, y: 16}
+        - {x: -24, y: 16}
+        - {x: -25, y: 11}
+        - {x: -25, y: -19}
+        - {x: 25, y: -19}
+        - {x: 25, y: 5}
+        - {x: 4, y: 19}
+    - name: CVSOTN_AlchemyLabObjects_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 47
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 57
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 59
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 43
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_52
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 43
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 43
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 24
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -27, y: 17}
+        - {x: -27, y: -20}
+        - {x: -20, y: -27}
+        - {x: 20, y: -27}
+        - {x: 27, y: -14}
+        - {x: 27, y: 17}
+        - {x: 16, y: 27}
+    - name: CVSOTN_AlchemyLabObjects_55
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 20
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 31}
+        - {x: -31, y: 18}
+        - {x: -31, y: -18}
+        - {x: -18, y: -31}
+        - {x: 27, y: -31}
+        - {x: 31, y: -20}
+        - {x: 31, y: 24}
+        - {x: 23, y: 31}
+    - name: CVSOTN_AlchemyLabObjects_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 43
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 43
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 43
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_63
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_64
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_65
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_67
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVSOTN_AlchemyLabObjects_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3
+        width: 122
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
