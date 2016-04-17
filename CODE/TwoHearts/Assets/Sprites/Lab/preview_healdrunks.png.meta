@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: df5b969757059e045b3d5647f812d4a5
+timeCreated: 1460794982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: preview_healdrunks_0
+    21300002: preview_healdrunks_1
+    21300004: preview_healdrunks_2
+    21300006: preview_healdrunks_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: preview_healdrunks_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52}
+        - {x: -37.5, y: 22}
+        - {x: -37.5, y: 6}
+        - {x: -34.5, y: 7}
+        - {x: -27.5, y: 11}
+        - {x: -37.5, y: 5}
+        - {x: -37.5, y: -47}
+        - {x: -28.5, y: -52}
+        - {x: 36.5, y: -52}
+        - {x: 37.5, y: -50}
+        - {x: 37.5, y: 52}
+    - name: preview_healdrunks_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52}
+        - {x: -37.5, y: 22}
+        - {x: -37.5, y: 6}
+        - {x: -34.5, y: 7}
+        - {x: -27.5, y: 11}
+        - {x: -37.5, y: 5}
+        - {x: -37.5, y: -47}
+        - {x: -28.5, y: -52}
+        - {x: 36.5, y: -52}
+        - {x: 37.5, y: -50}
+        - {x: 37.5, y: 52}
+    - name: preview_healdrunks_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 12
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52}
+        - {x: -37.5, y: 22}
+        - {x: -37.5, y: 6}
+        - {x: -34.5, y: 7}
+        - {x: -27.5, y: 11}
+        - {x: -37.5, y: 5}
+        - {x: -37.5, y: -47}
+        - {x: -28.5, y: -52}
+        - {x: 36.5, y: -52}
+        - {x: 37.5, y: -50}
+        - {x: 37.5, y: 52}
+    - name: preview_healdrunks_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 12
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52}
+        - {x: -37.5, y: 22}
+        - {x: -37.5, y: 6}
+        - {x: -34.5, y: 7}
+        - {x: -27.5, y: 11}
+        - {x: -37.5, y: 5}
+        - {x: -37.5, y: -47}
+        - {x: -28.5, y: -52}
+        - {x: 36.5, y: -52}
+        - {x: 37.5, y: -50}
+        - {x: 37.5, y: 52}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

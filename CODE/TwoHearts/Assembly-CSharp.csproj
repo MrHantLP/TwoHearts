@@ -46,8 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraScript.cs" />
-     <Compile Include="Assets\Scripts\IntroSkript.cs" />
      <Compile Include="Assets\Scripts\Move_for_test.cs" />
+     <Compile Include="Assets\Scripts\tt.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
